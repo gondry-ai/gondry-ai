@@ -20,9 +20,9 @@ Computer vision research on automated okra quality assessment and real-time grad
 
 Knee electroarthrography (EAG) classification research that began during my master's studies and led to a published study I co-authored ([Lee, Jang & Chang, *BMC Musculoskeletal Disorders*, 2025](https://doi.org/10.1186/s12891-025-08939-8)). The repository is a PyTorch reimplementation of the original TensorFlow/Keras pipeline, checked against it with a parity test, plus an additional subject-independent leave-one-subject-out evaluation that the paper did not perform.
 
-### [FinBridgeAI](https://github.com/gondry-ai/finbridge-ai): bilingual banking onboarding MVP
+### [FinBridgeAI](https://github.com/gondry-ai/finbridge-ai) — AI-Extensible Financial Service MVP
 
-An AI-extensible, bilingual banking onboarding MVP for foreign residents in South Korea, developed for the [2026 Finance AI Challenge](https://daker.ai/public/hackathons/2026-finance-ai-challenge). It gives customers English guidance and bank staff Korean summaries and status keywords. The current implementation is **rule-based**, with no LLM calls at runtime. It defines an `AiProvider` interface so LLM-backed features could be integrated in the future.
+Developed for the [2026 Finance AI Challenge](https://daker.ai/public/hackathons/2026-finance-ai-challenge), FinBridgeAI explores how AI-driven financial services can improve accessibility and inclusivity for foreign residents in South Korea. The project focuses on overcoming language and procedural barriers through a user-centered digital solution, with a working MVP designed to support future AI integration.
 
 ## Technical Skills
 
