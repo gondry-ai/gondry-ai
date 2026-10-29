@@ -26,9 +26,9 @@ Developed for the [2026 Finance AI Challenge](https://daker.ai/public/hackathons
 
 ## Technical Skills
 
-- **Languages:** Python, TypeScript
-- **Frameworks:** PyTorch, TensorFlow/Keras
-- **Computer Vision:** Classification, Object Detection, Instance Segmentation, Keypoint Estimation
+- **Languages:** Python
+- **Deep Learning:** PyTorch, TensorFlow/Keras
+- **Computer Vision:** Image Classification, Object Detection, Instance Segmentation, Keypoint Estimation
 - **Architectures:** CNNs, Transformers, YOLO, RF-DETR
-- **Machine Learning:** Time-Series Classification, Model Evaluation, Data Preprocessing
-- **Tools:** OpenCV, Git, Linux, React, Vite
+- **Machine Learning:** scikit-learn, Time-Series Classification, Model Evaluation
+- **Tools & Platforms:** OpenCV, NumPy, Docker, Git, Linux
