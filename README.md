@@ -28,7 +28,7 @@ Developed for the [2026 Finance AI Challenge](https://daker.ai/public/hackathons
 
 - **Languages:** Python
 - **Deep Learning:** PyTorch, TensorFlow/Keras
-- **Computer Vision:** Image Classification, Object Detection, Instance Segmentation, Keypoint Estimation
+- **Computer Vision:** Image Classification, Object Detection, Instance Segmentation, Keypoint Estimation, Depth Estimation
 - **Architectures:** CNNs, Transformers, YOLO, RF-DETR
 - **Machine Learning:** scikit-learn, Time-Series Classification, Model Evaluation
 - **Tools & Platforms:** OpenCV, NumPy, Docker, Git, Linux
