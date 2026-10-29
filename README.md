@@ -4,18 +4,15 @@ Ph.D. researcher in System Integration Engineering at the University of Yamanash
 
 ## VisionGrader Research Series
 
-Two related but independent computer vision research projects on projection-guided produce grading: a camera detects and grades each item, and a projector displays the result directly on it. Each repository contains the model training and evaluation code and the real-time system.
+Two related but independent computer vision research projects on automated produce quality grading with real-time visual feedback.
 
 ### [LemonVision Grader](https://github.com/gondry-ai/lemonvision-grader)
 
-Lemon detection, occlusion-aware target selection and 3-class grading (Best / Second / Juice), in two studies:
-
-- **Cyberworlds 2026 (accepted):** single-sided grading in a projection-guided free-placement workspace (YOLO11n detection, EfficientNet-B0 grading).
-- **Journal of Agriculture and Food Research (under review):** a two-stage workflow linking front- and back-side observations for packed harvest baskets. It combines RF-DETR Seg detection, a NORI + RDNet-Tiny occlusion classifier, and EfficientNet-B0 grading with logit averaging.
+Computer vision research on automated lemon quality grading and interactive visual feedback. The work has led to a Cyberworlds 2026 paper (accepted) and a journal manuscript (under review).
 
 ### [OkraVision Grader](https://github.com/gondry-ai/okravision-grader)
 
-Okra pod grading (A / B / C) from a multi-stage pipeline: YOLOv8s-seg segmentation, YOLO11n-pose keypoints for length and curvature, an EfficientNet-B0 appearance-defect classifier, and a fixed rule-based fusion step. Research code with a real-time system; results so far are on a validation split only, with no independent test set or external field validation yet.
+Computer vision research on automated okra quality assessment and real-time grading systems. Ongoing work.
 
 ## Other Projects
 
